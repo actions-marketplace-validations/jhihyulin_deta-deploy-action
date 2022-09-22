@@ -1,4 +1,4 @@
-name: "Deploy to Deta"
+name: "Deploy on Deta"
 description: "Simple GitHub Action to deploy current repo to a Deta Micro"
 
 inputs:
